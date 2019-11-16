@@ -21,4 +21,7 @@ class School
         students.sort!
   end
 end
+<<<<<<< HEAD
 end
+=======
+>>>>>>> 0924037790d5a6135ce192813bee13bcea8bcbd2
